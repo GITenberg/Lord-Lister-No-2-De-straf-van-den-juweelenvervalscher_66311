@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <pgterms:ebook rdf:about="ebooks/66311">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/40698">
+        <pgterms:name>Matull, Kurt</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1872</pgterms:birthdate>
+        <pgterms:webpage rdf:resource="https://de.wikipedia.org/wiki/Kurt_Matull"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N5a4d4fff8cd548f9aaef8e991fed3aa0">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">nl</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:title>Lord Lister No. 2: De straf van den juweelenvervalscher</dcterms:title>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-09-15</dcterms:issued>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/66311/66311-h/66311-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/66311"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc77f66207aa546ff8051701fb47bd36f">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-09-15T02:27:53</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">173349</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/66311/66311-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/66311"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114246</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N848f00786f564e9297ccb404d8c5ad08">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-09-15T02:27:53</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/66311/66311-h.zip">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282521</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N4e8c914bb0024115b5c995e13aef5904">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nef09d99556754c80a60fbd11d7c4aea9">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-09-15T02:27:56</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/66311"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/53745">
+        <pgterms:name>Blakensee, Theo</pgterms:name>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/66311/66311-0.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/66311"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41724</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N007fa273706d4de39333800433f3db33">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N19e0925b61c04d51a43bc62bc0d0d32e">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-09-15T02:27:56</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Kurt_Matull">
+    <dcterms:description>de.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
