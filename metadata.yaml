@@ -1,5 +1,8 @@
 _repo: Lord-Lister-No-2-De-straf-van-den-juweelenvervalscher_66311
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Matull, Kurt
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '53745'
     url: http://www.gutenberg.org/2009/agents/53745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66311#Lord-Lister-No-2-De-straf-van-den-juweelenvervalscher
 gutenberg_issued: '2021-09-15'
 identifiers:
   gutenberg: '66311'
